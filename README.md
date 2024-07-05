@@ -12,7 +12,8 @@
 <img src="figs/Backbone.png" style="zoom:41.5%;" />
 
 ## :mega: News
-- **2023.09.29**: Arxiv version of the paper are available now.
+- **2024.07.01**: Accepted to ECCV2024.
+- **2023.09.29**: The Arxiv version of the paper is available now.
 
 ## :love_you_gesture: Citation
 If you find our paper and repo are helpful for your research, please consider citing:
